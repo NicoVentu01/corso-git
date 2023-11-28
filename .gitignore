@@ -1,0 +1,5 @@
+# Directories da eliminare:
+temp
+
+# Files da eliminare:
+*.log
